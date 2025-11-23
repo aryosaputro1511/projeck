@@ -1,4 +1,4 @@
 ![Tampilan BMC](BMC.png)
 ---
 
-![Tampilan Lean Canvas](Lan%20Canvas.png)
+![Tampilan Lean Canvas](LC.png)
